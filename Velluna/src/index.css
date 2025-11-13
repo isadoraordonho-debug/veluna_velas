@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: #7B3314;
+  box-sizing: border-box;
+  font-family: "Bellota", system-ui
+}
+
+:root{
+  --corBackground: #F6EBE1;
+  --corPrincioal: #7B3314;
+  --corFontClara: #ffffff;
+  --corFontEscura: #000000;
+  --alturaRodape: 60px;
+  --fontLogo: "Italiana", sans-serif;
+  --fontCoplementar: "Bellota", system-ui;
+}
+
+body{
+  background-color: var(--corBackground);
+}
